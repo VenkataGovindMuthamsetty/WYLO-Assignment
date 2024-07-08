@@ -1,0 +1,31 @@
+.post-card{
+    padding: 12px;
+    margin: 10px;
+    background-color: aquamarine;
+    color: black;
+    border: 2px brown solid;
+    border-radius: 13px;
+    width: 96%;
+}
+
+h2{
+    text-align: center;
+}
+
+.foot-cont{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-edit{
+    color: black;
+    font-weight: 800;
+}
+
+.btn-del{
+    color: rgb(7, 16, 1);
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 900;
+}
