@@ -3,11 +3,11 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f8d3d3;
+    background-color: #a30505;
 }
 
 .edit-post-card {
-    background-color: #fff;
+    background-color: #772424;
     padding: 2rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -42,7 +42,7 @@
 }
 
 .edit-post-card button:hover {
-    background-color: #0056b3;
+    background-color: #2d3742;
 }
 
 .btn-div{
